@@ -1,1 +1,1 @@
- ByteCode -> Python #1
+ Create a new sentence
