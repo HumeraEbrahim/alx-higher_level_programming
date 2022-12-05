@@ -66,11 +66,11 @@ int is_palindrome(listint_t **head)
 	{
 
 		if (tmp->n != rev->n)
-			return (0)
-		tmp = tmp->next
-		rev = rev->next
+			return (0);
+		tmp = tmp->next;
+		rev = rev->next;
 	}
-	reverse_listint(&mid)
+	reverse_listint(&mid);
 
-	return (1)
+	return (1);
 }
